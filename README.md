@@ -13,6 +13,9 @@ My GitHub profile: https://github.com/sumanthreddy1233
 * MultiTasking
 * Quick learner
 * Leadership qualities
+## Educational Qualifications:
+* I have done my undergraduate computer science and engineering in the year 2019 with an aggregate of 72%.
+* I completed my +2 in MPC(Maths Physics Chemistry) in the year 2015 with an aggregate of 80.4%.
 ## Connections
 * LinkedIn: https://www.linkedin.com/in/sumanth-reddy-76a88719a/
 * GitHub: https://github.com/sumanthreddy1233
